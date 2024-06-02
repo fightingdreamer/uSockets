@@ -1,0 +1,13 @@
+.{
+    .name = "uSockets",
+    .version = "0.8.8",
+    .dependencies = .{
+        .upstream = .{
+            .url = "https://github.com/uNetworking/uSockets/archive/refs/tags/v0.8.8.tar.gz",
+            .hash = "1220b2149bd556250792330a18717a02eaa39835fc7e5d79eda10333e6476173ab08",
+        },
+    },
+    .paths = .{
+        "",
+    },
+}
